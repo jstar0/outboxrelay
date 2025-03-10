@@ -1,0 +1,4 @@
+outputs/
+coverage/
+*.out
+.DS_Store
