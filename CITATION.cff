@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "OutboxRelay"
+message: "If OutboxRelay is useful in your work, please cite the repository and its release."
+type: software
+authors:
+  - family-names: "jstar"
+license: MIT
+version: 0.1.0
+date-released: 2026-09-08
+abstract: "A deterministic local reference for transactional outbox delivery and idempotent consumer recovery."
