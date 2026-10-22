@@ -62,9 +62,7 @@ go vet ./...
 go build ./...
 ```
 
-See [docs/architecture.md](docs/architecture.md) for the model boundary and
-[docs/design-decisions.md](docs/design-decisions.md) for rejected alternatives
-and known weaknesses.
+See [docs/architecture.md](docs/architecture.md) for the model boundary.
 
 ## Scope
 
